@@ -1,0 +1,7 @@
+rockyou.txt
+test.wav
+*.exe
+*.dll
+.vs/
+x64/
+*.vcxproj.user
